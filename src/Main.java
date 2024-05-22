@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        //var ui = 3;
         var dog = 8.0;
         var cat = 3.6;
         var paper = 891;
@@ -22,13 +21,6 @@ public class Main {
         System.out.println("cat = " + cat);
         System.out.println("paper = " + paper);
 
-        var friend = 19;
-        System.out.println("friend = " + friend);
-        friend = friend + 2;
-        System.out.println("friend = " + friend);
-        friend = friend / 3;
-        System.out.println("friend = " + friend);
-
         var frog = 3.5;
         System.out.println("frog = " + frog);
         frog = frog * 10;
@@ -37,6 +29,13 @@ public class Main {
         System.out.println("frog = " + frog);
         frog = frog + 4;
         System.out.println("frog = " + frog);
+
+        var friend = 19;
+        System.out.println("friend = " + friend);
+        friend = friend + 2;
+        System.out.println("friend = " + friend);
+        friend = friend / 3;
+        System.out.println("friend = " + friend);
 
         var boxer1 = 78.2;
         var boxer2 = 82.7;
